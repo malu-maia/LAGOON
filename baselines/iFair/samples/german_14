@@ -1,0 +1,101 @@
+,checking_acc,credit_historic,saving_acc,atual_employ_since,installment_rate,sex,housing,credits_at_bank,classification
+0,1,Critical acc/Other cr existing,1,2,3,Male,Own,2,Good
+1,1,Existing credits paid,1,0,1,Male,For free,1,Good
+2,1,Existing credits paid,1,4,4,Male,Own,1,Bad
+3,0,Critical acc/Other cr existing,1,2,4,Female,Own,2,Bad
+4,2,Existing credits paid,1,4,4,Male,Own,1,Bad
+5,0,Existing credits paid,1,3,3,Male,Own,1,Good
+6,2,Existing credits paid,2,3,2,Male,Own,2,Good
+7,1,Existing credits paid,1,0,2,Male,Own,1,Good
+8,1,Critical acc/Other cr existing,1,2,4,Female,Rent,2,Bad
+9,1,Existing credits paid,1,1,4,Female,Rent,1,Good
+10,2,Delay in paying,2,4,2,Male,Own,4,Bad
+11,2,Existing credits paid,1,2,2,Female,Own,1,Good
+12,0,Critical acc/Other cr existing,0,1,2,Male,Own,2,Good
+13,2,Existing credits paid,0,1,4,Female,Rent,1,Bad
+14,1,Existing credits paid,4,2,4,Male,Own,1,Good
+15,2,All cr at this bank paid,0,1,3,Female,Own,1,Good
+16,2,No cr taken/all cr paid,2,1,3,Female,Own,2,Bad
+17,2,Existing credits paid,0,2,4,Male,Own,1,Good
+18,0,Critical acc/Other cr existing,3,2,1,Male,Own,1,Good
+19,0,Critical acc/Other cr existing,1,2,4,Female,Own,2,Good
+20,3,Existing credits paid,1,3,2,Male,Rent,1,Good
+21,0,Critical acc/Other cr existing,3,3,3,Female,Rent,1,Good
+22,2,Existing credits paid,2,2,2,Female,Rent,2,Bad
+23,2,Existing credits paid,0,1,4,Male,Own,1,Good
+24,0,Critical acc/Other cr existing,0,2,1,Male,Own,2,Good
+25,0,Existing credits paid,1,2,4,Male,Own,1,Good
+26,3,Critical acc/Other cr existing,3,2,2,Male,Own,1,Good
+27,0,Existing credits paid,3,2,3,Male,Rent,1,Good
+28,1,Existing credits paid,1,2,1,Male,Own,1,Good
+29,0,Critical acc/Other cr existing,0,4,2,Male,Rent,1,Good
+30,1,Existing credits paid,1,3,3,Male,Own,1,Good
+31,0,Existing credits paid,1,1,2,Female,Own,1,Good
+32,0,Delay in paying,1,2,3,Female,Own,1,Good
+33,0,Existing credits paid,0,4,4,Male,Own,1,Good
+34,0,Critical acc/Other cr existing,3,4,4,Male,Own,2,Good
+35,0,Existing credits paid,1,4,4,Male,Own,1,Good
+36,2,Critical acc/Other cr existing,1,2,1,Female,Own,1,Good
+37,0,Critical acc/Other cr existing,1,2,4,Male,Own,2,Good
+38,0,No cr taken/all cr paid,1,2,2,Male,Own,2,Bad
+39,0,Critical acc/Other cr existing,0,4,4,Female,Own,2,Good
+40,3,Existing credits paid,1,2,2,Male,Own,1,Good
+41,1,Existing credits paid,0,2,4,Female,Own,1,Bad
+42,2,Existing credits paid,1,1,4,Female,Own,1,Good
+43,2,Existing credits paid,4,2,4,Male,Own,1,Good
+44,3,Critical acc/Other cr existing,0,2,3,Male,Own,2,Good
+45,1,Existing credits paid,0,4,4,Male,For free,1,Good
+46,0,Existing credits paid,0,2,4,Male,For free,1,Good
+47,1,All cr at this bank paid,1,4,4,Male,Own,1,Good
+48,0,Critical acc/Other cr existing,0,4,4,Female,Rent,2,Good
+49,2,Critical acc/Other cr existing,1,4,2,Female,Own,2,Bad
+50,1,All cr at this bank paid,1,0,1,Female,Rent,2,Bad
+51,2,Existing credits paid,1,1,3,Female,Rent,1,Bad
+52,1,Delay in paying,1,1,2,Male,Own,2,Bad
+53,2,All cr at this bank paid,2,4,3,Female,For free,2,Bad
+54,0,All cr at this bank paid,0,1,3,Male,Rent,2,Good
+55,0,Existing credits paid,1,2,4,Female,Rent,1,Good
+56,1,Existing credits paid,1,1,4,Female,Rent,1,Bad
+57,0,Critical acc/Other cr existing,0,4,1,Female,Own,1,Good
+58,0,Critical acc/Other cr existing,0,2,1,Male,Own,2,Good
+59,1,Existing credits paid,0,2,4,Female,Rent,1,Bad
+60,0,Critical acc/Other cr existing,4,2,4,Male,Own,2,Good
+61,2,No cr taken/all cr paid,1,2,1,Male,Own,3,Bad
+62,1,Delay in paying,1,3,3,Male,Own,2,Bad
+63,0,Existing credits paid,0,1,2,Male,Rent,1,Good
+64,1,Existing credits paid,1,2,4,Male,Own,1,Bad
+65,0,Critical acc/Other cr existing,1,3,2,Male,Own,2,Good
+66,3,Existing credits paid,1,1,1,Male,Own,1,Good
+67,1,Existing credits paid,2,2,4,Female,Own,1,Bad
+68,0,Delay in paying,0,3,3,Male,Own,1,Good
+69,0,Existing credits paid,2,3,2,Male,Own,2,Good
+70,2,Existing credits paid,3,2,4,Female,Own,1,Good
+71,2,Existing credits paid,1,1,2,Male,Own,1,Good
+72,1,Existing credits paid,1,2,1,Male,Own,1,Good
+73,0,Existing credits paid,0,2,2,Male,For free,1,Good
+74,2,Existing credits paid,1,1,4,Female,Own,1,Good
+75,1,Existing credits paid,1,4,4,Female,Own,1,Good
+76,0,Existing credits paid,1,3,2,Female,Rent,1,Good
+77,0,Existing credits paid,1,3,3,Male,Own,1,Good
+78,1,No cr taken/all cr paid,1,4,3,Male,For free,2,Bad
+79,3,Existing credits paid,1,1,4,Female,Own,1,Good
+80,0,Existing credits paid,1,1,2,Male,Own,2,Good
+81,1,Existing credits paid,1,1,4,Female,Own,1,Bad
+82,0,Critical acc/Other cr existing,2,3,4,Male,Own,2,Good
+83,1,Existing credits paid,3,0,1,Female,Rent,1,Good
+84,0,Existing credits paid,0,2,4,Male,Own,1,Bad
+85,2,Existing credits paid,1,2,2,Male,Own,1,Good
+86,1,Existing credits paid,0,3,4,Female,Rent,1,Bad
+87,2,Critical acc/Other cr existing,1,0,4,Male,Own,2,Good
+88,2,Delay in paying,1,0,4,Male,Own,1,Bad
+89,0,Existing credits paid,0,4,3,Male,Own,2,Good
+90,0,Critical acc/Other cr existing,0,4,4,Male,Own,1,Good
+91,1,Critical acc/Other cr existing,1,4,4,Male,Own,2,Good
+92,1,Critical acc/Other cr existing,1,3,4,Female,Own,2,Good
+93,0,Critical acc/Other cr existing,0,4,2,Male,For free,2,Good
+94,1,Existing credits paid,4,2,1,Male,Own,1,Good
+95,2,Critical acc/Other cr existing,1,1,4,Female,Own,2,Good
+96,0,Critical acc/Other cr existing,4,4,4,Male,Own,2,Good
+97,0,Critical acc/Other cr existing,1,3,3,Male,Own,1,Good
+98,0,Delay in paying,3,1,4,Male,Own,1,Bad
+99,0,Delay in paying,1,3,3,Male,Own,2,Good

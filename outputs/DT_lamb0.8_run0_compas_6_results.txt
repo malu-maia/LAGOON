@@ -1,0 +1,22 @@
+FAIRNESS RATES: 
+Original:
+0.0
+
+Updated:
+0.8
+
+
+ACCURACY RATES:
+Original:
+0.9
+
+Updated:
+0.964
+
+
+CONSISTENCY RATES:
+Original:
+0.8133333333333334
+
+Updated:
+0.9466666666666667
