@@ -11,12 +11,12 @@ Original:
 1.0
 
 Updated:
-0.986
+0.981218993621545
 
 
 CONSISTENCY RATES:
 Original:
-0.9
+0.828
 
 Updated:
-0.9133333333333333
+0.97

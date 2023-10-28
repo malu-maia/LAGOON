@@ -3,20 +3,20 @@ Original:
 0.0
 
 Updated:
-1.0
+0.73
 
 
 ACCURACY RATES:
 Original:
-0.954
+0.9145995747696668
 
 Updated:
-0.8300000000000001
+0.7414953933380581
 
 
 CONSISTENCY RATES:
 Original:
-0.84
+0.86
 
 Updated:
 1.0
