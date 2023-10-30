@@ -10,17 +10,22 @@ from torch.utils.data import TensorDataset, DataLoader
 
 
 """ Adult dataset """
-def load_adult_dataset(seed = 2021, testsize = 0.30, sample = 0):
-    df = pd.read_csv('datasets/samples/adult_{}'.format(sample), index_col=0)
+def load_adult_dataset(seed = 2021, testsize = 0.20, sample = 0):
+    df = pd.read_csv('datasets/samples/adult_{}'.format(sample), index_col=False)
     try:
         del df['Unnamed: 0']
     except:
         pass
+
+    # LAGOON doesn't use the feature 'age' so we dropped here to have a fair comparison
+    df.drop('age', axis=1, inplace=True)
+    # 'education' is redundant since 'educational-num' represents the same thing
+    df.drop('education', axis=1, inplace=True)
     
     Y = np.array([int(y == '>50K') for y in df['income']])
     Z = np.array([int(z == 'Male') for z in df['gender']])
-    col_quanti = ['age', 'educational-num']
-    col_quali = ['race', 'workclass', 'relationship', 'native-country', 'education',
+    col_quanti = ['educational-num']#['age', 'educational-num']
+    col_quali = ['race', 'workclass', 'relationship', 'native-country', #'education',
                  'occupation', 'marital-status']
     
     X_quali = df[col_quali].values
@@ -61,8 +66,8 @@ def load_adult_dataset(seed = 2021, testsize = 0.30, sample = 0):
 
 
 """ German Credit Risk dataset """
-def load_german_dataset(seed = 2021, testsize = 0.30, sample = 0):
-    df = pd.read_csv('datasets/samples/german_{}'.format(sample), index_col=0)
+def load_german_dataset(seed = 2021, testsize = 0.20, sample = 0):
+    df = pd.read_csv('datasets/samples/german_{}'.format(sample), index_col=False)
     try:
         del df['Unnamed: 0']
     except:
@@ -112,8 +117,8 @@ def load_german_dataset(seed = 2021, testsize = 0.30, sample = 0):
 
 
 """COMPAS dataset"""
-def load_compas_dataset(seed = 2021, testsize = 0.30, sample = 0):
-    df = pd.read_csv('datasets/samples/compas_{}'.format(sample), index_col=0)
+def load_compas_dataset(seed = 2021, testsize = 0.20, sample = 0):
+    df = pd.read_csv('datasets/samples/compas_{}'.format(sample), index_col=False)
     try:
         del df['Unnamed: 0']
     except:

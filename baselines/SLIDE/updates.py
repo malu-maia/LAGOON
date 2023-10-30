@@ -1,6 +1,3 @@
-import csv
-
-
 """ DI """
 
 def update_perfs_di(perfs, learning_stats) :

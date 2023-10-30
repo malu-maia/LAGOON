@@ -171,6 +171,7 @@ def runner(args) :
             print(test_perfs)
 
     # save performances
+    print(args.dataset)
     file_name = '{}_sample{}.txt'.format(args.dataset, args.sample)
     if not os.path.exists(args.result_path):
         os.makedirs(args.result_path)

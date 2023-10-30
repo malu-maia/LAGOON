@@ -1,11 +1,11 @@
 Mode: slide
 
-Lamda: 5.0
+Lamda: 0.0
 
 Tau: 0.1
 
-AUC: 0.6583
+AUC: 0.5
 
-DI: 0.9266
-Consistency: 0.8521739130434782
+DI: 0.9998
+Consistency: 1.0
 
