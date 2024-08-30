@@ -10,6 +10,6 @@ Please cite the following paper if you use this code.
 	journal={Journal of the Brazilian Computer Society},\
 	author={Silva, Maria and Chaves, Iago and Machado, Javam},\
 	year={2024},\
-	month={Aug.},\ 
-	pages={238–251}\ 
+	month={Aug.},\
+	pages={238–251}\
 }
